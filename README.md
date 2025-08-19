@@ -2,6 +2,8 @@
 
 Este proyecto es una API REST construida con FastAPI y MySQL que permite realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) sobre una colección de libros.
 
+---
+
 🚀 Tecnologías utilizadas
 
 FastAPI
@@ -21,6 +23,8 @@ Python 3.9+
 MySQL Server
 
 pip (gestor de paquetes de Python)
+
+---
 
 🗄️ Configuración de la base de datos
 
@@ -48,6 +52,8 @@ Usuario: root
 Contraseña: patricio12
 
 Base de datos: fastapi_books
+
+---
 
 📦 Instalación del proyecto
 
@@ -80,6 +86,8 @@ La documentación interactiva estará en:
 Swagger UI → http://127.0.0.1:8000/docs
 
 ReDoc → http://127.0.0.1:8000/redoc
+
+
 
 📌 Endpoints disponibles
 🔹 Crear un libro
