@@ -93,7 +93,7 @@ Body (JSON):
 {
   "title": "Clean Code",
   "author": "Robert C. Martin",
-  "pages": 464
+  "year": 2000
 }
 
 🔹 Obtener todos los libros
@@ -117,7 +117,7 @@ Body (JSON):
 {
   "title": "Clean Architecture",
   "author": "Robert C. Martin",
-  "pages": 432
+  "year": 1999
 }
 
 🔹 Eliminar un libro
