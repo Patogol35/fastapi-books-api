@@ -87,9 +87,11 @@ Swagger UI → http://127.0.0.1:8000/docs
 
 ReDoc → http://127.0.0.1:8000/redoc
 
-
+---
 
 📌 Endpoints disponibles
+ññ
+
 🔹 Crear un libro
 
 POST /books/
@@ -134,7 +136,10 @@ Ejemplo:
 
 /books/1
 
+---
+
 ✨ Autor
 
 👨‍💻 Jorge Patricio Santamaría Cherrez
+
 Máster en Ingeniería de Software y Sistemas Informáticos
