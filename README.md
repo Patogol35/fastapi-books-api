@@ -37,14 +37,6 @@ Crea la base de datos:
 
 CREATE DATABASE fastapi_books;
 
-
-(Opcional) Crea un usuario y dale permisos (si no quieres usar root):
-
-CREATE USER 'fastapi_user'@'localhost' IDENTIFIED BY 'password123';
-GRANT ALL PRIVILEGES ON fastapi_books.* TO 'fastapi_user'@'localhost';
-FLUSH PRIVILEGES;
-
-
 En este proyecto usamos:
 
 Usuario: root
