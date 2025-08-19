@@ -90,7 +90,6 @@ ReDoc → http://127.0.0.1:8000/redoc
 ---
 
 📌 Endpoints disponibles
-ññ
 
 🔹 Crear un libro
 
