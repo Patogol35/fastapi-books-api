@@ -91,9 +91,9 @@ POST /books/
 Body (JSON):
 
 {
-  "title": "Clean Code",
-  "author": "Robert C. Martin",
-  "year": 2006
+  "title": "Las Catilinarias",
+  "author": "Juan Montalvo",
+  "year": 1880
 }
 
 🔹 Obtener todos los libros
@@ -115,9 +115,9 @@ PUT /books/{book_id}
 Body (JSON):
 
 {
-  "title": "Clean Architecture",
-  "author": "Robert C. Martin",
-  "year": 2008
+  "title": "El Cosmopolita",
+  "author": "Juan Montalvo",
+  "year": 1886
 }
 
 🔹 Eliminar un libro
