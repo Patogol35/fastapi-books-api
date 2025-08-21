@@ -51,7 +51,7 @@ Base de datos: fastapi_books
 
 Clona el repositorio:
 
-git clone https://github.com/Patogol35/fastapi-books-crud.git
+git clone https://github.com/Patogol35/fastapi-books-api.git
 
 cd fastapi-books-crud
 
