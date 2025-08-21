@@ -68,8 +68,6 @@ Instala las dependencias:
 
 pip install -r requirements.txt
 
-Si necesitas instalar `uvicorn` manualmente:
-
 pip install uvicorn
 
 ⚡ Ejecución del servidor
