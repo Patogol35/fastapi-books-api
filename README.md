@@ -55,19 +55,29 @@ git clone https://github.com/tuusuario/fastapi-books-crud.git
 
 cd fastapi-books-crud
 
-Crea un entorno virtual:
+Crea un entorno virtual e instålalo:
 
 python -m venv venv
-source venv/bin/activate   # En Linux/Mac
 
-venv\Scripts\activate      # En Windows
+source venv/bin/activate 
+
+# En Linux/Mac
+
+venv\Scripts\activate     
+
+# En Windows
 
 
 Instala las dependencias:
 
 pip install -r requirements.txt
 
+Si necesitas instalar `uvicorn` manualmente:
+
+pip install uvicorn
+
 ⚡ Ejecución del servidor
+
 uvicorn main:app --reload
 
 
