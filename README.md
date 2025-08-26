@@ -70,7 +70,7 @@ En Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 
-5. Ejecución del servidor
+5. Ejecuta el servidor
 
 uvicorn main:app --reload
 
