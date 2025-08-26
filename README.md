@@ -4,7 +4,7 @@ Este proyecto es una API REST construida con FastAPI y MySQL que permite realiza
 
 ---
 
-🚀 Tecnologías utilizadas
+⚙️ Tecnologías utilizadas
 
 FastAPI
 
@@ -32,7 +32,6 @@ Entra a MySQL con tu usuario:
 
 mysql -u root -p
 
-
 Crea la base de datos:
 
 CREATE DATABASE fastapi_books;
@@ -47,15 +46,17 @@ Base de datos: fastapi_books
 
 ---
 
-📦 Instalación del proyecto
+📦 Instalación y ejecución del proyecto
 
-Clona el repositorio:
+1. Clona el repositorio:
 
 git clone https://github.com/Patogol35/fastapi-books-api.git
 
+2. Ingresa a la carpeta del proyecto
+
 cd fastapi-books-crud
 
-Crea un entorno virtual e instålalo:
+3. Crea un entorno virtual e instålalo:
 
 python -m venv venv
 
@@ -64,19 +65,20 @@ En Linux/Mac: source venv/bin/activate
 En Windows: venv\Scripts\activate 
 
 
-Instala las dependencias:
+4. Instala las dependencias:
 
 pip install -r requirements.txt
 
 
-⚡ Ejecución del servidor
+5. Ejecución del servidor
 
 uvicorn main:app --reload
 
 
-El servidor estará disponible en:
+6. El servidor estará disponible en:
 
 👉 http://127.0.0.1:8000
+
 
 La documentación interactiva estará en:
 
@@ -86,7 +88,7 @@ ReDoc → http://127.0.0.1:8000/redoc
 
 ---
 
-📌 Endpoints disponibles
+🔗 Endpoints disponibles
 
 🔹 Crear un libro
 
