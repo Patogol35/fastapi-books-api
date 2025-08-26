@@ -46,7 +46,7 @@ Base de datos: fastapi_books
 
 ---
 
-📦 Instalación y ejecución del proyecto
+📦 Instalación y ejecución 
 
 1. Clona el repositorio:
 
