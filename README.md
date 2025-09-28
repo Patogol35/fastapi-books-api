@@ -50,29 +50,60 @@ Base de datos: fastapi_books
 
 1. Clona el repositorio:
 
+```bash
+
 git clone https://github.com/Patogol35/fastapi-books-api.git
+
+```
 
 2. Ingresa a la carpeta del proyecto
 
+```bash
+
 cd fastapi-books-crud
 
-3. Crea un entorno virtual e instålalo:
+```
+
+3. Crea un entorno virtual e instalalo:
+
+```bash
 
 python -m venv venv
 
-En Linux/Mac: source venv/bin/activate 
+```
 
-En Windows: venv\Scripts\activate 
+En Linux/Mac: 
+
+```bash
+
+source venv/bin/activate
+
+```
+
+En Windows: 
+
+```bash
+
+venv\Scripts\activate
+
+```
 
 
 4. Instala las dependencias:
 
+```bash
+
 pip install -r requirements.txt
 
+```
 
 5. Ejecuta el servidor
 
+```bash
+
 uvicorn main:app --reload
+
+```
 
 
 6. El servidor estará disponible en:
