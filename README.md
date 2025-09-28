@@ -6,23 +6,23 @@ Este proyecto es una API REST construida con FastAPI y MySQL que permite realiza
 
 ⚙️ Tecnologías utilizadas
 
-FastAPI
+- FastAPI
 
-MySQL
+- MySQL
 
-SQLAlchemy
+- SQLAlchemy
 
-Uvicorn
+- Uvicorn
 
 ⚙️ Requisitos previos
 
 Antes de ejecutar el proyecto, asegúrate de tener instalado:
 
-Python 3.9+
+- Python 3.9+
 
-MySQL Server
+- MySQL Server
 
-pip (gestor de paquetes de Python)
+- pip (gestor de paquetes de Python)
 
 ---
 
